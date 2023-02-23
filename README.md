@@ -1,6 +1,9 @@
 # fckffln
 
-`ts/js engineer developer`
+- TS/JS engineer developer
+- From Russia
+
+## I prefer to use
 
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
