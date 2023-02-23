@@ -1,7 +1,6 @@
 # fckffln
-`ts/js engineer developer`
 
-## Languages, frameworks and tools:
+`ts/js engineer developer`
 
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -40,5 +39,5 @@
 
 ### Systems
 ![MacOs](https://img.shields.io/badge/-macos-090909?style=for-the-badge&logo=apple)
-![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/-linux_(arch,_ubuntu)-090909?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows)
