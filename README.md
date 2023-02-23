@@ -1,6 +1,7 @@
-# fckffln
+# TS/JS engineer developer
 
-- TS/JS engineer developer
+- 3+ years of commercial development experience
+- I create applications for any platform
 - From Russia
 
 ## I prefer to use
