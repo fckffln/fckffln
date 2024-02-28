@@ -41,6 +41,8 @@
 ![Portnainer](https://img.shields.io/badge/-portainer-090909?style=for-the-badge&logo=portainer)
 ![Nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
 ![NodeJS](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=node.js)
+![NPM](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
+![BUN](https://img.shields.io/badge/-bun-090909?style=for-the-badge&logo=bun)
 
 ### Design tools
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
