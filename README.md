@@ -1,28 +1,32 @@
-# TS/JS engineer developer
+# Nikita (ak fckffln)
 
+## About me
+
+- 20 y.o. engineer-developer from Kazan
 - 4+ years of commercial development experience
-- I create applications for any platform
+- Create applications for any platform
 - Prefer to write close-source code
-- From Russia
-
-## I prefer to use
+ 
+## Prefer to use
 
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
-![LESS](https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
 
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
+![LESS](https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less)
+
 ### Frameworks
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=electron)
-![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
+
+![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic)
 ![NextJs](https://img.shields.io/badge/-NextJs-090909?style=for-the-badge&logo=next.js)
+![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=electron)
 
 ### State management
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
@@ -35,20 +39,28 @@
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 
 ### File and system management
-![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes)
-![Portnainer](https://img.shields.io/badge/-portainer-090909?style=for-the-badge&logo=portainer)
-![Nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
 ![NodeJS](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=node.js)
 ![NPM](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![BUN](https://img.shields.io/badge/-bun-090909?style=for-the-badge&logo=bun)
 
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
+
+![Kubernetes](https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes)
+![Portnainer](https://img.shields.io/badge/-portainer-090909?style=for-the-badge&logo=portainer)
+
 ### Design tools
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobePhotoshop)
+![Blender](https://img.shields.io/badge/-blender-090909?style=for-the-badge&logo=blender)
 
 ### Systems
-![MacOs](https://img.shields.io/badge/-macos-090909?style=for-the-badge&logo=apple)
-![Linux](https://img.shields.io/badge/-linux_(arch,_ubuntu)-090909?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows)
+![MacOs](https://img.shields.io/badge/-macos_(12+)-090909?style=for-the-badge&logo=apple)
+![Linux](https://img.shields.io/badge/-linux_(arch,_ubuntu,_debian)-090909?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-windows_(10+)-090909?style=for-the-badge&logo=windows)
+
+## Contact me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fckffln)
+[![PATREON](https://img.shields.io/badge/-patreon-090909?style=for-the-badge&logo=patreon)](https://patreon.com/fckffln)
